@@ -9,9 +9,6 @@ DEVELOPER -- JIYA MEHTA
 TESTER -- ISHITA
 
 # VERSION 1
-The version 1 contains basic code, the skeleton of the Hangman Game .
-
-# VERSION 2
 ~ As the game starts, it welcomes the user.
 ~ It asks you to enter an Alphabet of the random word .
 ~ If you enter the correct word, it prints " The Letter, {} is in the word."
@@ -21,7 +18,7 @@ The version 1 contains basic code, the skeleton of the Hangman Game .
 ~ If you enter invalid input (number), it still considers it an alphabet 
 ~ It you enter any character , it stops the game .
 
-# VERSION 3
+# VERSION 2
 ~ The game starts with welcoming the user.
 ~ You have total 10 attempts to guess the word 
 ~ If you enter an alphabet which is in the random word , it doesn't count as an attempt .
