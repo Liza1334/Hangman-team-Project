@@ -20,7 +20,7 @@ TESTER -- ISHITA
 
 # VERSION 2
 ~ The game starts with welcoming the user.
-~ You have total 10 attempts to guess the word 
+~ You have total 10 attempts to guess the word.
 ~ If you enter an alphabet which is in the random word , it doesn't count as an attempt .
 ~ If you enter wrong alphabet, it reduces one attempt and the length of Hangman is increased .
 ~ If you enter an alphabet or any special character (which is not correct input), it prints "That is not a letter . Please try again." and it does not count as an attempt .
